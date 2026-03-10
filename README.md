@@ -42,6 +42,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * ADE: Dynkin diagrams with only single lines; see page 252 of Georgi
 * ADHM: Atiyah, Drinfeld, Hitchin and Manin construction of instantons
 * ADI: Alternating direct implicit methods
+* ADM: Anomalous dimension matrix
 * ADM: Arnowitt, Deser and Misner formalism of general relativity
 * ADMX: Axion Dark Matter eXperiment
 * AEGIS: Antimatter Experiment: Gravity, Interferometry, Spectroscopy at CERN
@@ -58,13 +59,16 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * AGSS: Asplund, Grevesse, Sauval and Scott
 * AGT: Alday, Gaiotto and Tachikawa duality
 * AICS: RIKEN Advanced Institute for Computational Science
+* AIMDay: Academic and Industry Meeting Day
 * AION: Atom Interferometer Observatory and Network for ultra-light dark matter and gravitational waves
 * AIRES: AIR-shower Extended Simulations system
+* AIRR: AI Research Resource
 * AIT: Advanced Instrumentation Testbed at Boulby Underground Laboratory, North Yorkshire
 * aITALC: an Integrated Tool for Automating Loop Calculations
 * AKNS: Ablowitz, Kaup, Newell and Segur
 * AKSZ-BV: Alexandrov, Kontsevich, Schwarz, Zaboronsky, Batalin and Vylkovisky
 * AL3X: A Laboratory for Long-Lived eXotics proposed LHC detector near ALICE
+* ALB: Arms-Length Body in the UK
 * ALFA: Arecibo L-band Feed Array
 * ALICE: A Large Ion Collider Experiment
 * ALICE: Accelerators and Lasers In Combined Experiments at Daresbury, formerly ERL
@@ -97,8 +101,10 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * ANKE: Apparatus for Studies of Nucleon and Kaon Ejectiles at the Jülich Cooler Synchrotron
 * ANL: Argonne National Laboratory
 * ANN: Artificial Neural Network
+* ANNIE: Accelerator Neutrino Neutron Interaction Experiment at Fermilab
 * ANP: Adler, Nussinov and Paschos pion leptoproduction model
 * ANTARES: Astronomy with a Neutrino Telescope and Abyss environmental RESearch
+* ANUBIS: AN Underground Belayed In-Shaft search experiment proposed at CERN
 * APCTP: Asia Pacific Center for Theoretical Physics
 * APE: Array Processor Experiment
 * APEX: A-Prime EXperiment at Jlab
@@ -123,9 +129,11 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * ASD: Anti-self-dual
 * ASEP: Asymmetric simple exclusion process
 * ASIC: Application-specific integrated circuit
+* ASTeC: STFC Accelerator Science and Technology Centre
 * ASTROD: Astrodynamical Space Test of Relativity using Optical Devices
 * AT: Astronomical Transient (e.g., AT2017gfo)
 * ATCA: Australia Telescope Compact Array
+* ATCC: Advanced Technology Computing Campaigns at Livermore
 * ATF: Accelerator Test Facility at KEK
 * ATHENA: Antihydrogen experiment at CERN
 * ATHOS: Analysis Tools for next generation Hadron Spectroscopy
@@ -134,7 +142,9 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * ATLAS: A Toroidal LHC ApparatuS at CERN
 * ATMNC: ATmostpheric Muon Neutrino Calculation
 * ATNF: Australia Telescope National Facility
+* ATS: Advanced Technology Systems at Livermore
 * AUC: Area Under the [receiver operating characteristic] Curve machine learning performance measure
+* AUP: Accelerator Upgrade Project at Fermilab
 * AUT: Single-spin target Asymmetry with Unpolarized beam and Transversely polarized target
 * AVX: Advanced vector extensions
 * AWAKE: Advanced proton driven plasma Wakefield acceleration experiment based at CERN
@@ -233,6 +243,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * BMS: Bondi, Metzner and Sachs asymptotic symmetry group of general relativity
 * BMSSM: Beyond the Minimal Supersymmetric Standard Model
 * BMV: Bessis, Moussa and Villani
+* BMW: Budapest Marseille and Wuppertal Collaboration
 * BOOMERANG: Balloon Observations Of Millimetric Extragalactic Radiation and Geophysics
 * BooNE: Booster Neutrino Experiment
 * BOSS: Baryon Oscillation Spectroscopic Survey
@@ -247,6 +258,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * BRNS: Indian DAE Board of Research in Nuclear Sciences
 * BRpV: Bilinear R parity Violation
 * BRST: Becchi, Rouet, Stora, and (independently) Tyutin
+* BSE: Bethe--Salpeter Equation
 * BSI: British Standards Institution
 * BSS: Blankenbecler, Scalapino and Sugar quantum Monte Carlo algorithm
 * BSSN: Baumgarte, Shapiro, Shibata and Nakamura
@@ -260,6 +272,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * BZ: Ball and Zwicky
 
 ## C
+* C3: Cool Copper Collider
 * CAAR: Center for Accelerated Application Readiness at Oak Ridge
 * CAFPE: Centro Andaluz de Física de Partículas Elementales
 * CALET: CALorimetric Electron Telescope on the International Space Station
@@ -284,6 +297,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * CCFM: Ciafaloni, Catani, Fiorani and Marchesini evolution equation
 * CCFM-K: Catani, Ciafaloni, Fiorani, Marchesini and Kwiecinski evolution equation
 * CCFR: Chicago, Columbia, Fermilab and Rochester
+* CCHP: Chicago--Carnegie Hubble Program
 * CCQE: Charged current quasielastic scattering
 * CCPR: Computer Center Problem Reporting at JLab
 * CCR: Canonical commutation relations
@@ -324,6 +338,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * CfA: Harvard--Smithsonian Center for Astrophysics redshift survey
 * CFL: Color-flavor-locked
 * CFNS: Center for Frontiers in Nuclear Science at Stony Brook
+* CGAN: Conditional Generative Adversarial Network
 * CGC: Clebsch--Gordan coefficient
 * CGC: Color glass condensate
 * CGLN: Chew, Goldberger, Low and Nambu
@@ -350,6 +365,8 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * CHORUS: CERN Hybrid Oscillation Research apparatUS
 * CHORUS: Clearinghouse for the Open Research of the United States
 * ChPT: Chiral perturbation theory
+* CHROMA: Computational Hadronic Research for Observable Modeling and Analysis collaboration
+* CHSH: Clauser, Horne, Shimony and Holt inequality
 * CHY: Cachazo, He and Yuan
 * CI: Chirally improved
 * CIBJET: Event-by-event generalization of CUJET, acronym unknown
@@ -416,6 +433,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * CORE: Cosmic ORigins Explorer proposed satellite
 * CoRoT: Convection Rotation and planetary Transits
 * CORSIKA: COsmic Ray SImulations for KAscade program
+* CoSeC: STFC Computational Science Centre for research communities
 * COSINE: Dark matter experiment run by DM-Ice in collaboration with the Korea Invisible Mass Search, apparently not an acronym
 * COSINUS: Cryogenic Observatory for SIgnatures seen in Next-generation Underground Searches proposal
 * CosmoMC: Cosmological Monte Carlo
@@ -498,6 +516,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * DAMA/LIBRA: DArk MAtter Large sodium Iodide Bulk for RAre processes experiment
 * DAMIC: Dark Matter In CCDs experiment
 * DAMPE: DArk Matter Particle Explorer satellite launched in 2015
+* DAPNIA: (Former) Department of Astrophysics, Particle physics, Nuclear physics and Associated Instrumentation in the CEA
 * DARMA: De Angelis, Roncadelli and Mansutti
 * DART: NASA's Double Asteroid Redirection Test
 * DAS: Double asymptotic scaling approximation
@@ -521,6 +540,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * DEAP: Dark matter Experiment with Argon and Pulse shape discrimination
 * DEC: Discrete exterior calculus
 * DECam: Dark Energy Camera on the Blanco Telescope
+* DECAL: Digital Electromagnetic Calorimeter
 * DECaLS: DECam Legacy Survey
 * DECIGO: DECI-hertz interferometer Gravitational wave Observatory
 * DeeMe: Muon experiment at J-PARC, acronym unknown
@@ -563,6 +583,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * DMRG: Density matrix renormalization group tensor network method
 * DMS: Data Movement and Storage department at Fermilab
 * DMTPC: Dark Matter Time Projection Chamber experiment
+* DMZ: Davier, Malaescu and Zhang (working with BMW Collaboration)
 * DNDO: Domestic Nuclear Detection Office in the Department of Homeland Security
 * DONUT: Direct Observation of the NU Tau experiment at Fermilab
 * DORIS: DOppel-RIng Speicher (double-ring storage) at DESY
@@ -618,10 +639,12 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * ECO: Exotic compact object
 * ECOSMOG: Efficient COde for Simulating MOdified Gravity
 * ECS: ESnet Collaboration Service
+* eCSE: Embedded Computational Science and Engineering
 * ECT: European Center for Theoretical Studies in Nuclear Physics and Related Areas
 * ECuME: Electroplated Cuprum Manufacturing Experiment
 * EDD: Exclusive double diffractive
 * EDELWEISS: Expérience pour DEtecter Les Wimps En Site Souterrain
+* EDF: Energy density functional method
 * EDGES: Experiment to Detect the Global Epoch of reionization Signature
 * EDI: Equity, diversity and inclusion
 * EDMFT: Extended Dynamical Mean Field Theory
@@ -663,6 +686,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * ENDL: Evaluated Nuclear Data Library
 * ENUBET: Enhanced NeUtrino BEams from kaon Tagging proposed facility
 * EOGM: Extra-ordinary gauge mediation
+* EOSC: European Open Science Cloud
 * EoR: Epoch of Reionization
 * EP: Event plane
 * EPAC: Extreme Photonics Applications Centre at the CLF at Harwell
@@ -687,6 +711,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * ERBL: Efremov, Radyushkin, Brodsky and Lepage
 * ERE: Effective range expansion
 * ERE: Encuentros Relativistas Españoles
+* ERIC: European Research Infrastructure Consortium
 * ERL: Energy Recovery Linac at Daresbury, renamed ALICE
 * EROS: Expérience pour la Recherche d'Objets Sombres microlensing survey
 * eROSITA: X-ray instrument for Russian--German Spektr-RG space observatory, superseding ROSAT
@@ -712,7 +737,9 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * ETP: European Technology Platform
 * ETQS: Efremov, Teryaev, Qiu and Sterman
 * EuCAPT: European Consortium for Astroparticle Theory
+* EuPRAXIA: European Plasma Research Accelerator with eXcellence In Applications
 * EUREKA: European Research Coordination Agency
+* EUROLABS: EUROpean Laboratories for Accelerator-Based Sciences
 * EVN: European Very Long Baseline Interferometry Network
 * EWBG: Electroweak baryogenesis
 * EWIP: Extremely Weakly Interacting Particle
@@ -766,7 +793,9 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * FIESTA: Feynman Integral Evaluation by a Sector decomposiTion Approach
 * FIMP: Feebly Interacting Massive Particle
 * FImP: Feebly Interacting light Particle
+* FINUDA: FIsica NUcleare a DAfne experiment at Frascati
 * FiO/LS: Frontiers in Optics / Laser Science conference
+* FIP: Feebly Interacting Particle
 * FIRAS: Far Infrared Absolute Spectrophotometer
 * FIRE: Feynman Integral REduction Mathematica package
 * FIS: File Interchange Service at Livermore
@@ -780,6 +809,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * FKTUY: Fujiwara, Kugo, Terao, Uehara and Yamawaki
 * FL: Friedberg and Lee
 * FLAG: Flavour Lattice Averaging Group
+* FLASH: Finuda magnet for Light Axion Search Haloscope experiment at Frascati
 * FLASY: Workshop on FLAvour SYmmetries
 * FLHA: Flavor Les Houches Accord
 * FLIC: Fat Link Irrelevant Clover
@@ -910,6 +940,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * GTC: NVIDIA GPU Technology Conference
 * GUE: Gaussian unitary ensemble
 * GVD: Gigaton Volume Detector in Lake Baikal
+* GW: Approximation multiplying single-particle Green function and screened Coulomb interaction
 * GW: Gravitational wave
 * GWAS: Genome-wide association study
 * GZ: Gribov and Zwanziger
@@ -919,6 +950,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * HA-PACS: Highly Accelerated Parallel Advanced system for Computational Sciences in Tsukuba
 * HADES: High Acceptance Di-Electron Spectrometer experiment at FAIR
 * HAL QCD: Hadrons to Atomic nuclei from Lattice QCD Collaboration
+* HALHF: Hybrid Asymmetric Linear Higgs Factory project
 * HALO: Helium And Lead Observatory at SNO
 * HAPPEX: Hall A Precision Parity EXperiment at JLab
 * HARDPING: HARD Probe INteraction Generator Monte Carlo event generator
@@ -947,7 +979,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * HEPAP: High Energy Physics Advisory Panel
 * HEPGEN: Hard Exclusive Production GENerator for leptoproduction at COMPASS
 * HERA: Hadron Elektron Ring Anlage at DESY
-* HERA: Hydrogen Epoch of Reionization Array interferometer
+* HERA: Hydrogen Epoch of Reionization Array interferometer in South Africa
 * HERD: High Energy cosmic-Radiation Detection facility proposed for a future Chinese space station
 * HERMES: High-Energy Radiation Megavolt Electron Source at Sandia National Lab
 * HERMES: DESY fixed-target experiment to explore spin, apparently not an acronym
@@ -956,6 +988,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * HESE: High-energy starting events in neutrino telescopes like IceCube
 * HESR: High Energy Storage Ring collider at FAIR
 * HESS: High Energy Stereoscopic System
+* HETDEX: Hobby--Eberly Telescope Dark Energy Experiment
 * HFAG: Heavy Flavor Averaging Group
 * HFET: Heterojunction field effect transistor
 * HFI: High frequency instrument
@@ -966,9 +999,11 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * HHIAF: High-intensity Heavy-Ion Accelerator Facility (formerly Heavy-Ion Advanced research Facility, HIAF?) under construction in Huizhou
 * HI: Astronomical zone in which hydrogen is mostly atomic
 * HIC: Helmholtz International Center for FAIR
+* HIDDeN: Hunting Invisibles: Dark sectors, Dark matter and Neutrinos ITN
 * HIE-ISOLDE: High Intensity and Energy upgrade of ISOLDE
 * HIGS: High-Intensity Gamma-ray Source at DFELL
 * HIJING: Heavy Ion Jet INteraction Generator
+* HIKE: Hike-Intensity Kaon Experiment proposed for CERN SPS
 * HILAS: High Intensity Large Acceptance Spectometer proposed for Jlab
 * HIP: Heterogeneous-compute Interface for Portability for GPU programming
 * HiPER: High Power laser Energy Research
@@ -1002,6 +1037,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * HSA: Heterogeneous Systems Architecture
 * HSC: Hadron Spectrum Collaboration
 * HSC: Subaru Hyper Suprime-Cam
+* HSF: HEP Software Foundation
 * HSS: Harmonic superspace
 * HST: Hubble Space Telescope
 * HT: Higher twist
@@ -1048,6 +1084,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * ICHEC: Irish Centre for High-End Computing
 * ICISE: International Centre for Interdisciplinary Science Education in Quy Nhon
 * ICM: International Conference on Magnetism
+* ICMS: International Centre for Mathematical Sciences in Edinburgh
 * ICNAAM: International Conference of Numerical Analysis and Applied Mathematics
 * ICRC: International Cosmic Ray Conference
 * ICT: Information and communications technology
@@ -1065,6 +1102,8 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * IFAE: Incontri di Fisica di Alta Energia
 * IFIC: Instituto de Física Corpuscular
 * IGCAC: International Conference on Gravitation, Astrophysics and Cosmology
+* IGEN: Inclusive Graduate Education Network
+* IGFAE: Instituto Galego de Fisica de Altas Enerxias at Universidade de Santiago de Compostela (USC)
 * IGRB: Isotropic diffuse gamma-ray background
 * IHEP: Institute for High Energy Physics at Protvino, Russia
 * iHixs: Inclusive Higgs boson cross section program
@@ -1078,11 +1117,13 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * ILL: Institut Laue-Langevin
 * IMA: Institute of Mathematics and its Applications
 * IMB: Irvine, Michigan and Brookhaven neutrino detector
+* IMDEA: Institutos Madrileño de Estudios Avanzados
 * IMP: Institute of Modern Physics in China
 * IN2P3: Institut national de physique nucléaire et de physique des particules
 * INDIGO: Indian Initiative in Gravitational-wave Observations
 * INFIERI: INtelligent Signal Processing for FrontIEr Research and Industry
 * INFN: Istituto Nazionale di Fisica Nucleare
+* INI: Isaac Newton Institute in Cambridge
 * INLN: Institut Non Linéaire de Nice
 * INO: India-based Neutrino Observatory
 * INPOP: Intégration Numérique Planétaire de lObservatoire de Paris
@@ -1098,6 +1139,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * IPAC: International Particle Accelerator Conference
 * IPDPS: International Parallel and Distributed Processing Symposium
 * iPEPS: Infinite projected entangled pair states tensor network method
+* IPIE: International Panel on the Information Environment
 * IPN: InterPlanetary Network of satellites
 * IPPOG: International Particle Physics Outreach Group
 * IPTA: International Pulsar Timing Array
@@ -1133,9 +1175,12 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * ITEP: Institute for Theoretical and Experimental Physics in Moscow
 * ITIY: Intriligator, Thomas, Izawa and Yanagida models of dynamical supersymmetry breaking
 * ITMD: Improved Transverse Momentum Dependent factorization
+* ITN: Marie Sklodowska-Curie Innovative Training Network
 * ITNA: Individual Training Needs Assessment at Fermilab
+* ITSS: UK Institute for Technical Skills and Strategy
 * IWNT: International Workshop on Nuclear Theory
 * IXO: International X-ray Observatory
+* IYBSSD: International Year of Basic Sciences for Sustainable Development
 * IZEST: International Center for Zetta- Exawatt Science and Technology in Paris
 * IZMIRAN: Institute of Earth magnetism, ionosphere and radiowaves propagation named after Nikolay Pushkov of the Russian Academy of Sciences (Institut zemnogo magnetizma, ionosfery i rasprostraneniya radiovoln im. N. V. Pushkova Rossiyskoy Akademii nauk)
 
@@ -1143,12 +1188,14 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * J-PARC: Japan Proton Accelerator Research Complex
 * JADE: Japan, Deutschland, and England detector at DESY's PETRA, also refers to type of jet algorithm developed by this collaboration
 * JADE: Joint Academic Data-science Endeavour in the UK
+* JAGB: J-region Asymptotic Giant Branch extragalactic distance indicator
 * JAGS: Just Another Gibbs Sampler bayesian analysis code
 * JAM: Jet A--A Microscopic transport model
 * JAXA: Japan Aerospace Exploration Agency
 * JDEM: Joint Dark Energy Mission
 * JEDI: Jülich Electric Dipole moment Investigations collaboration
 * JEM-EUSO: Japan Experiment Modules Extreme Universe Space Observatory
+* JENAS: Joint ECFA--NuPECC--APPEC Seminar
 * JEWEL: Jet Evolution With Energy Loss event generator
 * JET: Topical collaboration on Jet and Electromagnetic Tomography of extreme phases of matter in heavy-ion collisions
 * JETSCAPE: Jet Energy-loss Tomography with a Statistically and Computationally Advanced Program Envelope
@@ -1194,7 +1241,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * KKMC: Monte Carlo event generator written in Krakow and Knoxville during year 2K-1
 * KL: Kallen and Lehmann
 * KL: K-Long facility proposed at JLab
-* KLASH: KLoe magnet for Axion SearcH proposed experiment at Frascati
+* KLASH: KLoe magnet for Axion SearcH proposed experiment at Frascati (now FLASH)
 * KLN: Kharzeev, Levin and Nardi model for pre-equilibrium phase
 * KLN: Kinoshita, Lee and Nauenberg cancellations of IR-divergent Feynman diagrams
 * KLOE: K-Long Experiment
@@ -1213,7 +1260,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * KoRIA: Korea Rare Iostope Accelerator
 * KOTO: K0 at TOkai experiment
 * KP: Kadomtsev and Petviashvili
-* KPI: Key performance indicator.
+* KPI: Key performance indicator
 * KPP: Kolmogorov, Petrovsky and Piskunov partial differential equation
 * KPZ: Kardar, Parisi and Zhang equation
 * KREEP: Potassium, rare-earth element and phosphorus component of some lunar rocks
@@ -1264,6 +1311,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * LDME: Long-distance matrix element
 * LDMX: Light Dark Matter eXperiment proposed at SLAC
 * LDRD: Laboratory Directed Research and Development at Livermore
+* LEAF: Laboratory Efficiency Assessment Framework
 * LEAR: Low Energy Antiproton Ring at CERN
 * LEBC: LExan Bubble Chamber at CERN
 * LeCosPA: Leung Center for Cosmology and Particle Astrophysics
@@ -1337,6 +1385,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * LTB: Lemaître, Tolman and Bondi
 * LTD: Loop--tree duality
 * LTI: Learning Tools Interoperability in Canvas
+* LTO: Link-Time Optimization
 * LUCIAE: Hadron and string cascade model, acronym meaning unknown
 * LUPM: Laboratoire Univers et Particules de Montpellier
 * LUX: Large Underground Xenon dark matter experiment
@@ -1360,6 +1409,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * MAP: Muon Accelerator Program
 * MAPT: Massless Analytic Perturbation Theory
 * MARTINI: Modular Algorithm for Relativistic Treatment of heavy IoN Interactions
+* MAST-U: Mega Ampere Spherical Tokamak Upgrade at Culham
 * MATHUSLA: MAssive Timing Hodoscope for Ultra Stable neutraL pArticles proposed surface detector at CERN
 * MATTER: Modular All-Twist Transverse and Elastic scattering induced Radiation event generator
 * MaVaN: Mass-varying neutrino
@@ -1379,6 +1429,8 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * MDS: Metadata Server in Lustre system
 * ME: Matrix element
 * MEC: Meson-exchange current
+* MeerKAT: Karoo Array Telescope in South Africa's Meerkat National Park
+* MeerKLASS: MeerKAT Large Area Synoptic Survey
 * MEG: Mu to E Gamma experiment at PSI
 * MEGA: Mu to E GAmma experiment at Los Alamos
 * MEGa-ray: Mono-energetic gamma-ray at Livermore
@@ -1425,9 +1477,11 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * MKL: Intel Math Kernel Library
 * MLC: Mandelbrot Locally Connected conjecture
 * MLF: Material and Life Science Experimental Facility at J-PARC
+* MLIR: Multi-Level Intermediate Representation compiler framework, part of LLVM
 * MLM: M. L. Mangano
 * MLS: Minimal Length Scenario
 * MMCP: Mathematical Modeling and Computational Physics
+* MMGPD: Modern Multipurpose Generalized Parton Distribution collaboration
 * MMHT: Martin, Motylinski, Harland-Lang and Thorne parton distributions
 * MNS: Maki, Nakagawa and Sakata
 * MO: Muskhelishvili and Omnes
@@ -1456,11 +1510,12 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * MRW: Martin, Ryskin and Watt parton distribution formalism
 * MS: Magueijo and Smolin
 * MSbar: Modified Minimal Subtraction
+* MSHT: Mass Scheme Hessian Tolerance (or Martin, Stirling, Harland-Lang and Thorne) parton distributions
 * MSR: Renormalization scheme claimed to be the simplest extension of MSbar to renormalization scales R << m\_Q
 * MSSM: Minimal supersymmetric standard model
 * MSSU(5): Minimal supersymmetric SU(5) model
 * MST: Madison Symmetric Torus
-* MSTW: A. D. Martin, W. J. Stirling, R. S. Thorne, and G. Watt
+* MSTW: Martin, Stirling, Thorne and Watt parton distributions
 * mSUGRA: Minimal supergravity
 * MSW: Mikheev, Smirnov, and Wolfenstein
 * MT: Mathematica package to compute convolutions based on Mellin transforms
@@ -1478,6 +1533,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * MURMUR: Low-noise neutron-passing-through-walls experiment, acronym unknown but potentially related to the University of Namur
 * MUSE: Multi Unit Spectroscopic Explorer for ESO's VLT
 * MUSIC: MUSCL for Ion Collisions program
+* MuSIC: Multiple-mirror Search for sub-GeV particles with Ionization Chamber experiment at Kamioka
 * MUSCL: Monotone Upstream-centered Schemes for Conservation Laws
 * MUST: Tool to detect MPI usage errors, apparently not an acronym
 * MVA: Multi-variate analysis
@@ -1605,6 +1661,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * ORCID: Open Researcher and Contributor ID
 * ORKA: The Golden KAon Decay experiment proposed at Fermilab
 * ORNL: Oak Ridge National Lab
+* OSA: Optical Society of America, now Optica
 * OSB: Observational Science Board of the Einstein Telescope
 * OSCAR: Open Standard Codes and Routines
 * OscSNS: Experiment to search for sterile neutrino oscillations using the Spallation Neutron Source at Oak Ridge
@@ -1638,6 +1695,8 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * PASC: Swiss Platform for Advanced Scientific Computing
 * PASEP: Partially asymmetric simple exclusion process
 * PAX: Polarized Antiproton eXperiments
+* PBC: Periodic boundary conditions
+* PBC: Physics Beyond Colliders initiative at CERN
 * PBH: Primordial black hole
 * PCA: Principal component analysis
 * PCIe: Peripheral Component Interconnect Express
@@ -1661,8 +1720,10 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * PHOKHARA: Event generator including NLO QED effects, apparently not an acronym
 * PHSD: Parton-Hadron-String Dynamics transport model
 * PHY: The physical layer of the OSI model
+* PhyNuBE: Physique Nucléaire de Basse Energie schools
 * PhySyHCAl: A Physics System based on Hierarchical Computer Algebra
 * PIBETA: Pion Beta experiment at PSI
+* PIC: Particle in cell algorithm
 * PIC: Physics in Collision
 * PICASSO: Project in Canada to Search for Supersymmetric Objects, or Projet d'Identification de CAndidats Supersymétriques SOmbres at SNO
 * PICO: PICASSO + COUPP
@@ -1675,6 +1736,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * PKS: Parkes observatory in Australia, and the radio catalog it produced
 * PLaIn LQCD: Lambda Cold Dark Matter with Power-LAw INflation
 * PLANCK: CMB satellite experiment; not an acronym, though sometimes treated as such
+* PLANCKS: Physics League Across Numerous Countries for Kickass Students
 * PLC: Photon linear collider
 * PLQCD: PRACE Lattice QCD library
 * pMSSM: Phenomenological Minimal Supersymmetric Standard Model
@@ -1690,6 +1752,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * POWHEG BOX: Automatic implementation of POWHEG for generic NLO processes, apparently not an acronym
 * PowHel: Framework combining the POWHEG-Box with the HELAC-NLO package
 * PPAC: Parallel-plate avalanche counter
+* PPAN: Particle Physics, Astronomy and Nuclear Physics
 * PPAP: STFC Particle Physics Advisory Panel
 * PPB: Polar Patrol Balloon
 * PPC: International Conference on Interconnections between Particle Physics and Cosmology
@@ -1733,6 +1796,8 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * QCDF: QCD factorization
 * QCDM: Quintessence Cold Dark Matter cosmological model
 * QCDSF: German lattice collaboration, acronym meaning unknown (related to SFB?)
+* QCVV: Quantum characterization, verification, and validation
+* QETU: Quantum Eigenvalue Transformation of Unitary matrices with real polynomials
 * QFEXT: Quantum field theory under the influence of external conditions
 * QGP: Quark--gluon plasma
 * QGS or QGSM: Quark--gluon string model
@@ -1758,7 +1823,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * QuantEmX: Quantum Emergence Exchange
 * QUASAR: Quantum Systems and advanced Accelerator Research group
 * QUASAR: Proposed Quasi-Axisymmetric Stellarator Research facility
-* QUAX: QUaerere AXion ("search axion") proposal
+* QUAX: QUaerere AXion ("search axion") experiment
 * QUBIC: Q and U Bolometric Interferometer for Cosmology observatory in Argentina
 * QUEST: Q and U Extragalactic Sub-mm Telescope
 * QUEST: Quantum Enhanced Superfluid Technologies for dark matter and cosmology
@@ -1863,6 +1928,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * SAS: Small Astronomical Satellite
 * SAS: Statistical Analysis System developed by Statistical Analysis Software
 * SB&F: Science Books & Films project of AAAS
+* SBF: Surface brightness fluctuation
 * SBND: Short-Baseline Near Detector for neutrinos at Fermilab
 * SBRI: Small Business Research Initiative in the UK
 * SCaN: Space Communications and Navigation program at NASA
@@ -1896,6 +1962,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * SHALON: Extensive Air Showers from Neutrino (in Russian)
 * SHARE: Statistical HAdronization with REsonances code
 * SHERPA: Simulation of High-Energy Reactions of PArticles event generator
+* SH0ES: Supernova H0 for the Equation of State project
 * SHINE: SPS Heavy Ion and Neutrino Experiment
 * SHiP: Search for Hidden Particles experiment proposed at CERN
 * SHIP: Separator for Heavy Ion reaction Products at GSI
@@ -1998,6 +2065,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * SPTpol: A polarization-sensitive camera on SPT
 * sQGP: Strongly interacting quark--gluon plasma
 * SQM: Strange quark matter
+* SQMS: Superconducting Quantum Materials and Systems center at Fermilab
 * SQUID: Superconducting quantum interference device
 * SONIC: Super hybrid mOdel simulationN for relativistic heavy-Ion Collisions
 * SRD: Secret Restricted Data
@@ -2016,8 +2084,10 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * STAR: Solenoidal Tracker At RHIC
 * STARS: Caribbean Symposium on Cosmology, Gravitation, Nuclear and Astroparticle Physics, apparently not an acronym
 * STEM: Scanning transmission electron microscopy
+* STEP: Spherical Tokamak for Energy Production proposed to be built in Nottinghamshire
 * STFC: UK Science and Technology Facilities Council
 * STM: Scanning tunneling microscopy
+* STSI: Space Telescope Science Institute at John Hopkins
 * STU: Model that exhibits both exact S- and T-dualities
 * STXS: Simplified Template Cross Sections
 * sUED: Singlet-extended universal extra dimension
@@ -2045,6 +2115,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * T2KK: Tokai to Kamioka and Korea
 * TA: Telescope Array air shower experiment in Utah
 * TALE: Telescope Array Low Energy extension
+* TALENT: Training in Advanced Low-Energy Nuclear Theory school at ECT
 * TANAMI: Tracking Active Galactic Nuclei with Austral Milliarcsecond Interferometry
 * TAPAS: The Antiproton Annihilation Spectrometer at Fermilab
 * TAPS: Two-Arm Photon Spectrometer, has been used in the SPEAR detector at SLAC, the Crystal Ball detector at the Mainz Microtron, and perhaps teh Crystal Barrel Detektor at the Elektronen Stretcher Anlage in Bonn as well
@@ -2059,6 +2130,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * TBM: Tri-bimaximal mixing
 * TCC: Transplanckian Censorship Conjecture
 * TCE: TTA-based Co-design Environment
+* TCM: Traditional Chinese medicine
 * TCS: Timelike Compton scattering
 * TDA: Transition distribution amplitude
 * TDAQ: Trigger and Data Acquisition
@@ -2071,6 +2143,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * TED: Technology and Engineering Development building at JLab
 * TED: Technology, Entertainment, Design conferences
 * TEK: Twisted Eguchi--Kawai model
+* TELOS: Theoretical Explorations on the Lattice with Orthogonal and Symplectic groups collaboration
 * TEM: Transmission electron microscopy
 * TERB: Tensor-entanglement renormalization group tensor network method
 * TES: Transition-edge sensor
@@ -2097,6 +2170,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * TM: Tri-maximal mixing
 * TMD: Tech company founded as Thorn Microwave Devices
 * TMD: Transverse momentum dependent parton distribution function
+* TMDC: Transition-metal dichalcogenide
 * TMT: Thirty Meter Telescope proposed in Hawaii
 * TNE: Transnational education
 * TNS: Tensor network states
@@ -2111,9 +2185,11 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * TQFT: Thermal Quantum Field Theory and its Applications workshop series
 * TQFT: Topological quantum field theory
 * TREPS: Two-photonic REsonance Production Simulator
+* TRGB: Tip of the Red-Giant Branch extragalactic distance indicator
 * TRINAT: TRIUMF's Neutral Atom Trap
 * TRISTAN: Transposable Ring Intersecting Storage Accelerator in Nippon
 * TRIUMF: Originally TRI-University Meson Facility, now name of Canadian lab
+* TRLM: Truncated Residual Least Mean Lanczos method
 * TRV: Time-reversal violation
 * TS-PHMC: Two-Step Polynomial Hybrid Monte Carlo
 * TSSCPP: Totally symmetric self-complementary plane partition
@@ -2138,6 +2214,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * UFO: Universal FeynRules output file format
 * uGNI: User-level Generic Network Interface
 * UHECR: Ultra-high-energy cosmic ray
+* UIP: Utilities Improvement Project at Fermilab
 * ULIRG: Ultraluminous infrared galaxy
 * UMSSM: U(1)-extended Minimal Supersymmetric Standard Model
 * uPDF: Unintegrated parton density function
@@ -2231,6 +2308,7 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * XFIRST: Wide Field Infrared Survey Telescope
 * XG: Xu and Greiner
 * XIS: X-ray Imaging Spectrometer
+* XLZD: XENON, LUX-ZEPLIN and DARWIN
 * XMASS: All of (1) Xenon MASSive detector for solar neutrino, (2) Xenon detector for weakly interacting MASSive particles, (3) Xenon neutrino MASS detector
 * XMM-Newton: X-ray Multi-Mirror Mission of the ESA
 * XQC: X-ray Quantum Calorimetry rocket experiment reused for dark matter searches
@@ -2255,4 +2333,5 @@ This basic list has largely been superseded by the [High Energy Physics Acronym 
 * ZDC: Zero degree calorimeter
 * ZEPLIN: Liquid Xenon and proportional scintillation dark matter experiment
 * ZiF: Zentrum für interdisziplinäre Forschung at Bielefeld
+* ZNE: Zero-noise extrapolation
 * ZTF: Zwicky Transient Facility at Palomar
